@@ -10,6 +10,7 @@
   "plugins": ["testing-library"],
   "root": true,
   "rules": {
-    "react/jsx-sort-props": "error"
+    "react/jsx-sort-props": "error",
+    "testing-library/prefer-user-event": "error"
   }
 }
